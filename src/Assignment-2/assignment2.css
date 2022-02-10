@@ -54,8 +54,8 @@ input{
     height: 530px;
     border: 1px;
     border-style: solid;
-    display: inline-block;
-    float: left;
+    /* display: inline-block; */
+    /* float: left; */
 }
 
 #main-content-section{
@@ -64,7 +64,7 @@ input{
     height: 530px;
     border: 1px;
     border-style: solid;
-    display: inline-block;
+    /* display: inline-block; */
 }
 
 .right-sidebar{
@@ -73,8 +73,8 @@ input{
     height:530px;
     border: 1px;
     border-style: solid;
-    display: inline-block;
-    float: right;
+    /* display: inline-block; */
+    /* float: right; */
 }
 
 .mylist{
@@ -99,4 +99,8 @@ input{
     border-style: solid;
     padding: 20px;
     text-align: center;
+}
+
+.row{
+    display:flex;
 }
