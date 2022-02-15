@@ -32,7 +32,7 @@ input{
     margin-top: 37px;
 }
 
-.nav{
+#nav{
     background-color: lightcyan;
     margin: 10px;
     display: block;
@@ -46,6 +46,10 @@ input{
     display: inline-block;
     width: 320px;
     text-align: center;
+}
+
+.row{
+    display:flex;
 }
 
 .left-sidebar{
@@ -101,6 +105,3 @@ input{
     text-align: center;
 }
 
-.row{
-    display:flex;
-}

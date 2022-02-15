@@ -19,6 +19,7 @@ header {
     color: white;
     height: 50px;
     padding: 0 25px;
+    
 }
 
 header nav {
@@ -28,6 +29,7 @@ header nav {
 header h1 {
     float: left;
     text-indent: -9999px;
+    background-image: url("images/logo.png");
     height: 35px;
     width: 35px;
     margin-top: 8px;
